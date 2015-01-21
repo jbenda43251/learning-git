@@ -1,3 +1,1 @@
-#This file represents a lot of important code
-uihgdvfiuiudhfuihuidfh
-while(true): do s1; done;
+Changing in Browser
